@@ -5,6 +5,10 @@ window.config = {
   apiUrl: 'https://subconverter-latest-aj6y.onrender.com',
   // 短域名服务地址
   shortUrl: 'https://s.ops.ci',
+  // 默认远程配置
+  remoteConfigName: '默认配置',
+  // 默认远程配置地址
+  remoteConfigUrl: 'https://raw.githubusercontent.com/Passerby1011/Garbage-dump/refs/heads/main/WTJ_Online.ini',
   // 首页菜单
   menuItem: [
     {
@@ -16,17 +20,6 @@ window.config = {
       title: 'GitHub',
       link: 'https://github.com/stilleshan/subweb',
       target: '_blank',
-    },
-  ],
-  // 远程配置地址,可以自行按照格式添加。
-  remoteConfigOptions: [
-    {
-      value: 'https://raw.githubusercontent.com/Passerby1011/Garbage-dump/refs/heads/main/WTJ_Online.ini',
-      text: 'ACL4SSR Online',
-    },
-    {
-      value: 'https://raw.githubusercontent.com/Passerby1011/Garbage-dump/refs/heads/main/WTJ_Online_CF.ini',
-      text: 'ACL4SSR Online Full 含有BPB节点分组',
     },
   ],
 };
