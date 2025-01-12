@@ -4,7 +4,7 @@ window.config = {
   // API 地址
   apiUrl: 'https://subconverter-latest-aj6y.onrender.com',
   // 短域名服务地址
-  shortUrl: 'https://s.ops.ci',
+  shortUrl: 'https://s.maliya.top',
   // 默认远程配置
   remoteConfigName: '默认配置',
   // 默认远程配置地址
