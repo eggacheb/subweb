@@ -2,7 +2,7 @@ window.config = {
   // 网站标题
   siteName: 'Subconverter Web',
   // API 地址
-  apiUrl: 'https://subconverter.maliya.top',
+  apiUrl: 'http://182.160.14.35:3009',
   // 短域名服务地址
   shortUrl: 'https://s.maliya.top',
   // 默认远程配置
